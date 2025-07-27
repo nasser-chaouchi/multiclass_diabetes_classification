@@ -93,5 +93,5 @@ streamlit run app.py
 🌐 [LinkedIn](https://www.linkedin.com/in/nasser-chaouchi/)
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/nasser-chaouchi/multiclass_diabetes_classification/blob/main/LICENSE).
 
