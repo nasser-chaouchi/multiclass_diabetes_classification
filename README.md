@@ -3,6 +3,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-red?logo=streamlit)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/ML-sklearn-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 This project aims to classify patients into **three diabetes categories** (Non-Diabetic, Diabetic, Pre-Diabetic) based on clinical and biochemical features. It includes:
 
@@ -91,5 +92,6 @@ streamlit run app.py
 💼 Data Scientist  
 🌐 [LinkedIn](https://www.linkedin.com/in/nasser-chaouchi/)
 
-
+## 📄 License
+This project is licensed under the MIT License.
 
