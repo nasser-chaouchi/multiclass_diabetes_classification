@@ -11,8 +11,7 @@ This project aims to classify patients into **three diabetes categories** (Non-D
 - A well-documented Jupyter notebook with data exploration, modeling, and evaluation
 - A deployed **Streamlit app** for real-time prediction
 
-🔗 **Try the app online**:  
-👉 https://multiclassdiabetes-vibkpbkqtd7zdhjbmojppp.streamlit.app/
+👉 [**Try the app online:**](https://multiclassdiabetes-vibkpbkqtd7zdhjbmojppp.streamlit.app/)
 
 <img width="386" height="742" alt="image" src="https://github.com/user-attachments/assets/d6a628be-437a-47fe-95d7-8b581841f1dd" />
 
