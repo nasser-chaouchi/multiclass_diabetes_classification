@@ -1,5 +1,9 @@
 # Multiclass Diabetes Classification Project
 
+![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-red?logo=streamlit)
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![scikit-learn](https://img.shields.io/badge/ML-sklearn-yellow)
+
 This project aims to classify patients into **three diabetes categories** (Non-Diabetic, Diabetic, Pre-Diabetic) based on clinical and biochemical features. It includes:
 
 - A complete machine learning pipeline built in Python
