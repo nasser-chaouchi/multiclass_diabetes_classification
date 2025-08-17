@@ -11,9 +11,9 @@ This project aims to classify patients into **three diabetes categories** (Non-D
 - A well-documented Jupyter notebook with data exploration, modeling, and evaluation
 - A deployed **Streamlit app** for real-time prediction
 
-👉 [**Try the app online:**](https://multiclassdiabetes-vibkpbkqtd7zdhjbmojppp.streamlit.app/)
+[**Try the app online:**](https://multiclassdiabetes-vibkpbkqtd7zdhjbmojppp.streamlit.app/)
 
-<img width="386" height="742" alt="image" src="https://github.com/user-attachments/assets/d6a628be-437a-47fe-95d7-8b581841f1dd" />
+![Streamlit Interface](images/Interface_Screenshot.png)
 
 
 ---
@@ -47,7 +47,8 @@ cd multiclass-diabetes-classification
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: .\venv\Scripts\activate
+source venv/bin/activate  
+# On Windows: .\venv\Scripts\activate
 ```
 
 ### 3. Install dependencies
@@ -63,7 +64,7 @@ streamlit run app.py
 ```
 
 
-## 📊 Model Performance Summary
+## Model Performance Summary
 
 | Model                | F1-score (macro) |
 |----------------------|------------------|
@@ -71,10 +72,31 @@ streamlit run app.py
 | Random Forest        | 0.9718           |
 | K-Nearest Neighbors  | 0.6771           |
 
-✅ Final model accuracy on test set: **97%**  
-✅ Macro F1-score: **0.98**
+Final model accuracy on test set: **97%**  
+Macro F1-score: **0.98**
 
 ---
+
+## Business Impact
+
+Diabetes is a global public health concern, with early detection being crucial to prevent severe complications.  
+This project demonstrates how **machine learning models** can support:
+
+- **Early identification** of patients at risk (Pre-Diabetic stage)  
+- **Decision support** for healthcare professionals  
+- **Raising awareness** and enabling preventive interventions  
+
+While based on a relatively small dataset, the methodology highlights the potential of **AI-assisted medical screening tools** in real-world healthcare applications.
+
+---
+
+## Disclaimer
+
+**Important Notice**  
+This project and the deployed application are intended **solely for educational and research purposes**.  
+They **must not** be used as a substitute for professional medical advice, diagnosis, or treatment.  
+Always consult qualified healthcare providers for medical concerns.
+
 
 ## Built With
 
@@ -85,12 +107,12 @@ streamlit run app.py
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 **Nasser Chaouchi**  
-💼 Data Scientist  
-🌐 [LinkedIn](https://www.linkedin.com/in/nasser-chaouchi/)
+Data Scientist  
+[LinkedIn](https://www.linkedin.com/in/nasser-chaouchi/)
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://github.com/nasser-chaouchi/multiclass_diabetes_classification/blob/main/LICENSE).
 
